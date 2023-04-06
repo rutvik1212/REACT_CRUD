@@ -1,0 +1,89 @@
+[
+    {
+        "country": "India",
+        "statelist": [
+            {
+                "state": "Gujarat",
+                "cityList": [
+                    "surat",
+                    "Ahemdabad",
+                    "Gandhinagar"
+                ]
+            },
+            {
+                "state": "Karnataka",
+                "cityList": [
+                    "Bangluru",
+                    "Mangluru",
+                    "Mysuru"
+                ]
+            },
+            {
+                "state": "Maharastra",
+                "cityList": [
+                    "Pune",
+                    "Mumbai",
+                    "Kanpur"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "China",
+        "statelist": [
+            {
+                "state": "Henan",
+                "cityList": [
+                    "Anyang",
+                    "Nanyang",
+                    "Puyang"
+                ]
+            },
+            {
+                "state": "Yunan",
+                "cityList": [
+                    "Yuxi",
+                    "Dali",
+                    "Baoshan"
+                ]
+            },
+            {
+                "state": "Jhejiang",
+                "cityList": [
+                    "Yiwu",
+                    "Huzhou",
+                    "ziaxing"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "USA",
+        "statelist": [
+            {
+                "state": "Alaska",
+                "cityList": [
+                    "Juneau",
+                    "Anchorage",
+                    "Sitka"
+                ]
+            },
+            {
+                "state": "Florida",
+                "cityList": [
+                    "Tallahassee",
+                    "Miami",
+                    "Tampa"
+                ]
+            },
+            {
+                "state": "NewYork",
+                "cityList": [
+                    "Albany",
+                    "Manhattan",
+                    "Bronx"
+                ]
+            }
+        ]
+    }
+]
